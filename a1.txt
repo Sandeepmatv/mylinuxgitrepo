@@ -1,4 +1,8 @@
 This is my first file 
+<<<<<<< HEAD
 knczvk
 new line it is 
 
+=======
+Stash test
+>>>>>>> 1ba0a85c47c69f31417f1f380800fc6809652d4a
